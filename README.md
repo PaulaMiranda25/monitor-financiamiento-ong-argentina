@@ -1,5 +1,7 @@
 # Monitor de Cooperación Internacional
 
+![Tablero interactivo](Tablero_interactivo.gif)
+
 Descripción del Proyecto
 
 Este tablero interactivo de Power BI analiza el flujo de fondos de la cooperación internacional dirigidos a Organizaciones de la Sociedad Civil (OSC) en Argentina durante el periodo 2023-2024. El objetivo es visualizar quiénes financian, qué sectores son priorizados y cómo se alinean estos fondos con los Objetivos de Desarrollo Sostenible (ODS).
