@@ -38,13 +38,17 @@ Hallazgos Clave (Insights)
 
 Estructura del Repositorio
 
-/data: Contiene los archivos .csv originales y el dataset final procesado.
+- donantes_publicos.csv: Datos originales de fondos por parte de fuentes publicas (gobiernos) (OCDE).
 
-/scripts: Script de Python (.py) utilizado para el tratamiento de datos.
+- donantes_privados.csv: Datos originales de fondos por partes de fuentes privadas (fundaciones) (OCDE).
 
-Monitor_Financiamiento_Argentina.pbix: Archivo del tablero de Power BI.
+- dataset_final.csv: Archivo unificado y procesado listo para Power BI.
 
-Tablero.jpg: Captura de pantalla del dashboard.
+- procesamiento_datos.py: Script de Python utilizado para la limpieza y unificación.
+
+- Monitor_Financiamiento_Argentina.pbix: Archivo del tablero interactivo de Power BI.
+
+- Tablero.jpg: Captura de pantalla del dashboard para visualización rápida.
 
 
 Nota Metodológica
