@@ -1,4 +1,4 @@
-# Monitor de Cooperación Internacional
+# Monitor de Financiamiento Internacional
 
 ![Tablero interactivo](Tablero_interactivo.gif)
 
