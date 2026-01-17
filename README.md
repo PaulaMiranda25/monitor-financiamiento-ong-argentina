@@ -6,15 +6,13 @@ Descripción del Proyecto
 
 Este tablero interactivo de Power BI analiza el flujo de fondos de la cooperación internacional dirigidos a Organizaciones de la Sociedad Civil (OSC) en Argentina durante el periodo 2023-2024. El objetivo es visualizar quiénes financian, qué sectores son priorizados y cómo se alinean estos fondos con los Objetivos de Desarrollo Sostenible (ODS).
 
+- Dataset: Registros de la OCDE (Creditor Reporting System - CRS).
 
 Tecnologías Utilizadas
 
 - Python: Para la extracción, unificación y limpieza de los datos crudos.
 
 - Power BI: Para el modelado de datos, creación de medidas DAX y diseño de la interfaz visual.
-
-- Dataset: Registros de la OCDE (Creditor Reporting System - CRS).
-
 
 Metodología y Proceso (ETL)
 
